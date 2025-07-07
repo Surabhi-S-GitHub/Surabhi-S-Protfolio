@@ -21,7 +21,7 @@ const Contact = () => {
 
         <div className="flex flex-wrap justify-center gap-4 mb-6">
           <a
-            href="mailto:surabhi.22cse@sonatech.ac.in"
+            href="mailto:surabhi.subramaniam@gmail.com"
             className="px-6 py-3 bg-gradient-to-r from-purple-600 to-indigo-500 text-white rounded-full font-medium shadow-md hover:scale-105 transition"
           >
             Email Me
