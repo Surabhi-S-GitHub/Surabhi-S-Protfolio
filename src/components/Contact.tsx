@@ -27,7 +27,7 @@ const Contact = () => {
             Email Me
           </a>
           <a
-            href="/NewCV.pdf"
+            href="/Resume-Surabhi S.pdf"
             download
             className="px-6 py-3 border-2 border-purple-600 text-purple-600 rounded-full font-medium hover:bg-purple-50 transition"
           >
