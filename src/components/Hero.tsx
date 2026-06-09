@@ -20,7 +20,7 @@ const Hero = () => {
         <div className="space-y-4 animate-fade-in">
           <h1 className="text-4xl md:text-6xl font-extrabold bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
             <Typewriter
-              words={['👋 Hey developers! I’m Surabhi Subramaniam 🚀']}
+              words={['👋 Hey! I’m Surabhi Subramaniam 🚀']}
               loop={1}
               cursor
               cursorStyle="_"
@@ -31,8 +31,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-gray-700 max-w-2xl mx-auto leading-relaxed">
-            🎓 I’m a final-year student passionate about crafting impactful solutions.
-          </p>
+🎓 Computer Science and Engineering graduate with a strong interest in Java development, DevOps, and cloud technologies. Passionate about building scalable applications, solving real-world problems, and continuously expanding my technical expertise.          </p>
 
           <p className="text-lg md:text-xl text-gray-700 max-w-2xl mx-auto leading-relaxed">
             💻 Always coding, forever learning, and dreaming big! ✨
