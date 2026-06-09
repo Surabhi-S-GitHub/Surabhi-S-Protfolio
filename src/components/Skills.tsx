@@ -1,7 +1,7 @@
 import { Card, CardContent } from "@/components/ui/card";
 
 const Skills = () => {
-  const technicalSkills = ["Python", "Java", "React.js", "Node.js", "Express.js", "SQL", "MongoDB", "Tailwind CSS"];
+  const technicalSkills = ["Python", "Java", "React.js", "Node.js", "Express.js", "SQL", "AWS", "MongoDB", "Tailwind CSS"];
   const softSkills = [
     "Communication",
     "Teamwork",
@@ -12,7 +12,7 @@ const Skills = () => {
     "Critical Thinking",
     "Leadership"
   ];
-  const languageSkills = ["English", "Japanese","Hindi", "Tamil", "Sanskrit"];
+  const languageSkills = ["Tamil(Native)", "Japanese", "English", "Hindi", "Sanskrit"];
 
   return (
     <section className="py-20 px-6 bg-white">
